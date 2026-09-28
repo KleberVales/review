@@ -5,17 +5,21 @@ Programmer:
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Programming paradigm;   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; SOLID;   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Design Patterns;   
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Software Architecture Patterns;  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Java/Python;   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; clean code
 
 Engineer:  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Domain Driven design;  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Software Architecture Patterns;   
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Monolith Modular;  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Microservices;  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Spring
 
-communication; API Rest; Kafka
+Architecture:  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; API Rest; 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Kafka
+Domain Driven design;
 
 Docker; Kubernetes; DevOps; gradle; Git/GitHub
 
