@@ -1,7 +1,7 @@
 # review
 
 Programmer:  
-&emsp;          Programming Logic;  
+&emsp;&emsp;&emsp;          Programming Logic;  
           Programming paradigm;   
           SOLID;   
           Design Patterns;   
