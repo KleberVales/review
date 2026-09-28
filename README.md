@@ -31,6 +31,12 @@ Artificial Intelligence:
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; AI Agent;  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Machine learning;
 
+Cloud Computing:  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Cloud Computing;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Cloud Developer;  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Cloud DevOps;  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Cloud Architect;
+
 Database
 
 Scrum
