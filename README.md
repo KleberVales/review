@@ -10,8 +10,8 @@ Programmer:
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; clean code
 
 Engineer:  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Git/Github
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Github Action
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Monolith Modular;  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Microservices;  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Spring
