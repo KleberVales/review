@@ -8,11 +8,11 @@ Programmer:
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Java/Python;   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; clean code
 
-Engineer:
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Domain Driven design; 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Software Architecture Patterns; 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Monolith Modular; 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Microservices; 
+Engineer:  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Domain Driven design;  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Software Architecture Patterns;   
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Monolith Modular;  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Microservices;  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Spring
 
 communication; API Rest; Kafka
