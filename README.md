@@ -13,8 +13,10 @@ Programmer:
 Engineer:  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Git/Github  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Github Action  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Monolith Modular;  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Microservices;  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Docker;    
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Kubernetes;    
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; DevOps;  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; gradle;
 
 Architecture:  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; API Rest;  
