@@ -26,11 +26,10 @@ Architecture:
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Monolith Modular;  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Microservices;
 
-Docker; Kubernetes; DevOps; gradle; Git/GitHub
-
-Cloud; Cloud developer
-
-Generative AI; AI Agent; Artificial intelligence;
+Artificial Intelligence:  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Generative AI;  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; AI Agent;  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Machine learning;
 
 Database
 
