@@ -2,11 +2,11 @@
 
 Programmer:  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Programming Logic;  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Programming paradigm;   
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Programming paradigm;  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Java/Python;   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; SOLID;   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Design Patterns;   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Software Architecture Patterns;  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Java/Python;   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; clean code
 
 Engineer:  
