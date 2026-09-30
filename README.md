@@ -46,4 +46,4 @@ Resumo
 
 O transit routing evita criar uma VPN ou FastConnect por VCN. Com uma hub VCN conectada ao on-premises via DRG e spokes ligadas por local peering, o tráfego passa pela hub. Isso só funciona com as route tables corretas na subnet de cada VCN, no DRG (via VCN route table) e nos LPGs da hub.
 
-Se quiser, posso montar um quiz ou flashcards 
+Se quiser, posso montar um quiz  
