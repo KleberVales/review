@@ -41,7 +41,3 @@ Database
 
 Scrum
 
-
-Resumo
-
-O transit routing evita criar uma VPN ou FastConnect por VCN. Com uma hub VCN conectada ao on-premises via DRG e spokes ligadas por local peering, o tráfego passa pela hub. 
